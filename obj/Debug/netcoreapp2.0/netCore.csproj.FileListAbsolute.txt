@@ -1,0 +1,10 @@
+c:\Users\ledod\Desktop\ExperimentosPlataformas\Proyectos\Proyecto1\netCore\bin\Debug\netcoreapp2.0\netCore.deps.json
+c:\Users\ledod\Desktop\ExperimentosPlataformas\Proyectos\Proyecto1\netCore\bin\Debug\netcoreapp2.0\netCore.runtimeconfig.json
+c:\Users\ledod\Desktop\ExperimentosPlataformas\Proyectos\Proyecto1\netCore\bin\Debug\netcoreapp2.0\netCore.runtimeconfig.dev.json
+c:\Users\ledod\Desktop\ExperimentosPlataformas\Proyectos\Proyecto1\netCore\bin\Debug\netcoreapp2.0\netCore.dll
+c:\Users\ledod\Desktop\ExperimentosPlataformas\Proyectos\Proyecto1\netCore\bin\Debug\netcoreapp2.0\netCore.pdb
+c:\Users\ledod\Desktop\ExperimentosPlataformas\Proyectos\Proyecto1\netCore\obj\Debug\netcoreapp2.0\netCore.csproj.CoreCompileInputs.cache
+c:\Users\ledod\Desktop\ExperimentosPlataformas\Proyectos\Proyecto1\netCore\obj\Debug\netcoreapp2.0\netCore.AssemblyInfoInputs.cache
+c:\Users\ledod\Desktop\ExperimentosPlataformas\Proyectos\Proyecto1\netCore\obj\Debug\netcoreapp2.0\netCore.AssemblyInfo.cs
+c:\Users\ledod\Desktop\ExperimentosPlataformas\Proyectos\Proyecto1\netCore\obj\Debug\netcoreapp2.0\netCore.dll
+c:\Users\ledod\Desktop\ExperimentosPlataformas\Proyectos\Proyecto1\netCore\obj\Debug\netcoreapp2.0\netCore.pdb
