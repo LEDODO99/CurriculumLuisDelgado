@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
@@ -6,4 +7,14 @@
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }
+=======
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ledod\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ledod\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+>>>>>>> 8a7a1e30c35b91a0f22a0ab341fc369b773efc13
 }

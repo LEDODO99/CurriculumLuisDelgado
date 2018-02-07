@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
 	box-sizing:border-box;
 }
@@ -156,3 +157,163 @@ ul.navbartop li.right {float: right;}
 		clear: both;
 	}
 }
+=======
+* {
+	box-sizing:border-box;
+}
+.row::after{
+				content:"";
+				clear:both;
+				display:block;
+			}
+.col-1{
+	width:10%;
+	float:left;
+}
+.col-2{
+	width:25%;
+	float:left;
+}
+.col-3{
+	width:40%;
+	float:left;
+}
+.col-4{
+	width:50%;
+	float:left;
+}
+.col-5{
+	width:100%;
+	float:left;
+}
+.col-6{
+	width:60%;
+	float:left;
+}
+.col-7{
+	width:75%;
+	float:right;
+}
+.parrafos{
+	font-size:100%
+}
+
+@font-face{
+	font-family:Gloss_And_Bloom;
+	src:url(../fonts/Gloss_And_Bloom.ttf);
+}
+.titulos{
+	font-family:"Gloss_And_Bloom";
+	margin-left: 9px;
+}
+.fondoSonic{
+	
+	background-image: url(../images/pinturaSonic.jpg);
+	background-size: 100% auto;
+}
+.fondo1{
+	background: rgba(102, 255, 204,0.7);
+}
+.fondo2{
+	background: rgba(128, 128, 255,0.7)
+}
+ul.navbartop{
+	box-sizing: none;
+    list-style-type: none;
+    margin-left: 7px;
+    padding: 0;
+	overflow: hidden;
+    background-color: black;
+}
+
+ul.navbartop li {float: left;}
+
+ul.navbartop li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+ul.navbartop li a:hover:not(.divisor) {
+	background-color: rgb(58, 28, 74);
+	}
+
+ul.navbartop li a.divisor {
+	background-color: rgb(204, 0, 153);
+}
+
+ul.navbartop li.right {float: right;}
+
+.imagenes{
+	width:100%;
+	height:auto;
+}
+.borde1{
+	border:5px;
+	border-color: rgb(255, 0, 255);
+	border-style: inset;
+}
+.borde2{
+	border:10px;
+	border-color: rgb(153, 51, 0);
+	border-style: groove;
+}
+.fotosDeContacto{
+	width:10%;
+	height:auto;
+}
+.body-content {
+	padding: 15px;
+}
+.fondoBody{
+	background-color: rgba(0, 255, 255,0.65);
+}
+.contactBox{
+	padding:10px;
+	background: black;
+	color: rgb(204, 122, 236);
+
+}
+.contenedorSB{
+	width: 100%;
+	background: grey;
+}
+.skillBar{
+	color:white;
+	text-align: right;
+	line-height: 15px;
+	padding-right: 15px;
+
+}
+.javaSB{
+	width: 80%;
+	background-color: red;
+}
+.net{
+	width: 60%;
+	background-color: purple;
+}
+.cSharp{
+	width: 50%;
+	background-color: lightskyblue;
+}
+.cPlPl{
+	width: 40%;
+	background-color: green;
+}
+.espaniol{
+	width: 90%;
+	background-color: rgba(168, 152, 7, 0.986);
+}
+.english{
+	width: 85%;
+	background-color: blue;
+}
+@media only screen and (max-width: 768px){
+	[class*="col-"]{
+		width: 100%;
+		clear: both;
+	}
+}
+>>>>>>> 8a7a1e30c35b91a0f22a0ab341fc369b773efc13

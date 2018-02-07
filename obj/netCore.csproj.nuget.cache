@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 {
   "version": 1,
   "dgSpecHash": "v1vpPEgy91ezK+mxCoxVVaHpVMNtiZnpfBGXsBg0djTPAla+yPeOQ3fOYcwNrveBV5ZLR5741K4P+8KQhqpDQg==",
   "success": true
+=======
+{
+  "version": 1,
+  "dgSpecHash": "v1vpPEgy91ezK+mxCoxVVaHpVMNtiZnpfBGXsBg0djTPAla+yPeOQ3fOYcwNrveBV5ZLR5741K4P+8KQhqpDQg==",
+  "success": true
+>>>>>>> 8a7a1e30c35b91a0f22a0ab341fc369b773efc13
 }
